@@ -1,5 +1,5 @@
 # 💫 About Me:
-🟢 I’m currently working on Web Development as a Freelancer<br>👯 I’m looking to collaborate on Open Source projects<br>`<br>🌱 I’m currently learning about web3.<br>⚡ I love to read about Mythology
+🟢 I’m currently working on Web Development as a Freelancer<br>👯 I’m looking to collaborate on Open Source projects<br><br>🌱 I’m currently learning about web3.<br>⚡ I love to read about Mythology
 
 
 ## 🌐 Socials:
